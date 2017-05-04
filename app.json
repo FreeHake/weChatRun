@@ -1,0 +1,12 @@
+{
+  "pages":[
+     "pages/run/run",
+     "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Running Fun",
+    "navigationBarTextStyle":"black"
+  }
+}
